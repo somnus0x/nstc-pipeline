@@ -1,0 +1,21 @@
+# Secrets
+.env
+youtube-token.json
+
+# Generated files
+shorts/
+*.mov
+temp_*
+
+# Audio/video assets (too large for git)
+audio/
+art/
+enhanced/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store

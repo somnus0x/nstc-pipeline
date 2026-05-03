@@ -1,0 +1,8 @@
+librosa>=0.10.0
+numpy
+Pillow>=10.0.0
+python-dotenv
+google-auth
+google-auth-oauthlib
+google-api-python-client
+playwright  # optional, only needed for --tegaki mode
